@@ -19,7 +19,7 @@
 ### Two 
 
 
-1. Download the ipa file [here](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/nextsun/IDCardScanner/master/Docs/Publish/app.plist) 
+1. Download the ipa file [here](https://raw.githubusercontent.com/nextsun/IDCardScanner/master/Docs/Publish/app.plist) 
 
 2. Install it with the app FileMaster
 
