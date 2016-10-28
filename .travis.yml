@@ -8,8 +8,8 @@ env:
   global:
 
   - WORKSPACE="IDCardScanner.xcworkspace"
-  - IOS_SCHEME="IDCardScanner"
-  - IOS_SDK=iphonesimulator10.0
+  - SCHEME="IDCardScanner"
+  - SDK=iphonesimulator10.0
 
 
 script: 
