@@ -8,11 +8,11 @@
 
 
 
-IDCardScanner is an demo app to recogize China ID Card information at iOS platform.
+IDCardScanner is an demo app to recognize China ID Card information at iOS platform.
 
 ## Run
 
-This project is bulid With [CocoaPods](http://cocoapods.org), so run this commond before openning with Xocde.
+This project is build With [CocoaPods](http://cocoapods.org), so run this command before opening with Xcode.
 
     pod install
 
@@ -31,17 +31,17 @@ This project is bulid With [CocoaPods](http://cocoapods.org), so run this common
 - b
 
 
-##Download 
+##Download
 
 #### One
 
 * Click  [here](https://dn-nextsun.qbox.me/itms-services.html?action=download-manifest&url=https://raw.githubusercontent.com/nextsun/IDCardScanner/master/Docs/Publish/app.plist)  on your iPhone or iPad to install it directly
 
-#### Two 
+#### Two
 
 
 
-1. Download the ipa file [here](https://raw.githubusercontent.com/nextsun/IDCardScanner/master/Docs/Publish/app.ipa) 
+1. Download the ipa file [here](https://raw.githubusercontent.com/nextsun/IDCardScanner/master/Docs/Publish/app.ipa)
 
 2. Install it with the app FileMaster
 
@@ -70,16 +70,8 @@ xxxxxx
 
 ## Author
 
-- [Lei Sun](https://github.com/nextsun) ([Sina Weibo](https://weibo.com/nextsun),[Twitter](https://twitter.com/nextsuncn))
+- [Lei Sun](http://github.com/nextsun) ([Sina Weibo](https://weibo.com/nextsun),[Twitter](https://twitter.com/nextsuncn))
 
 ## License
 
 IDCardScanner is released under the MIT license. See the LICENSE file for more info.
-
-
-
-
-
-
-
-
