@@ -7,9 +7,9 @@ cache:
 env:
   global:
 
-  - WORKSPACE="IDCardScanner.xcworkspace"
-  - SCHEME="IDCardScanner"
-  - SDK=iphonesimulator10.0
+  - WORKSPACE=IDCardScanner.xcworkspace
+  - SCHEME=IDCardScanner
+  - SDK=iphonesimulator
 
 
 script: 

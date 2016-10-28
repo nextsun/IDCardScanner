@@ -5,7 +5,8 @@
 
 [![Build Status](https://travis-ci.org/nextsun/IDCardScanner.svg?branch=master)](https://travis-ci.org/nextsun/IDCardScanner)
 
-[![Coverage Status](https://codecov.io/github/nextsun/IDCardScanner?branch=master)](https://codecov.io/github/nextsun/IDCardScanner?branch=master)
+
+[![Coverage Status](https://codecov.io/gh/nextsun/IDCardScanner/branch/master/graph/badge.svg)](https://codecov.io/gh/nextsun/IDCardScanner)
 
 
 ---
