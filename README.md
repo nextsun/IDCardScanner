@@ -6,8 +6,6 @@
 [![Build Status](https://travis-ci.org/nextsun/IDCardScanner.svg?branch=master)](https://travis-ci.org/nextsun/IDCardScanner)
 
 
-[![Coverage Status](https://codecov.io/gh/nextsun/IDCardScanner/branch/master/graph/badge.svg)](https://codecov.io/gh/nextsun/IDCardScanner)
-
 
 
 IDCardScanner is an demo app to recogize China ID Card information at iOS platform.
