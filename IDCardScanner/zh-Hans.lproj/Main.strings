@@ -1,0 +1,57 @@
+
+/* Class = "UIBarButtonItem"; title = "识别"; ObjectID = "1rN-WN-ykW"; */
+"1rN-WN-ykW.title" = "识别";
+
+/* Class = "UIBarButtonItem"; title = "选图像"; ObjectID = "3XC-hQ-ox5"; */
+"3XC-hQ-ox5.title" = "选图像";
+
+/* Class = "UILabel"; text = "姓名："; ObjectID = "8wQ-oi-kGh"; */
+"8wQ-oi-kGh.text" = "姓名：";
+
+/* Class = "UITabBarItem"; title = "方案一"; ObjectID = "AmY-pT-R4O"; */
+"AmY-pT-R4O.title" = "方案一";
+
+/* Class = "UIBarButtonItem"; title = "人脸"; ObjectID = "B7T-EL-ePg"; */
+"B7T-EL-ePg.title" = "人脸";
+
+/* Class = "UITabBarItem"; title = "Tesseract"; ObjectID = "DUM-Eh-Dcg"; */
+"DUM-Eh-Dcg.title" = "Tesseract";
+
+/* Class = "UITabBarItem"; title = "方案二"; ObjectID = "Euw-Ew-Grf"; */
+"Euw-Ew-Grf.title" = "方案二";
+
+/* Class = "UIBarButtonItem"; title = "选图像"; ObjectID = "Gnl-O5-JJR"; */
+"Gnl-O5-JJR.title" = "选图像";
+
+/* Class = "UINavigationItem"; title = "方案二"; ObjectID = "Hdh-Wv-gAu"; */
+"Hdh-Wv-gAu.title" = "方案二";
+
+/* Class = "UILabel"; text = "身份证号："; ObjectID = "Lx9-g2-7Re"; */
+"Lx9-g2-7Re.text" = "身份证号：";
+
+/* Class = "UIBarButtonItem"; title = "识别"; ObjectID = "Mhf-jW-HTo"; */
+"Mhf-jW-HTo.title" = "识别";
+
+/* Class = "UINavigationItem"; title = "TesseractOCR"; ObjectID = "PSS-tk-uIR"; */
+"PSS-tk-uIR.title" = "TesseractOCR";
+
+/* Class = "UITabBarItem"; title = "OpenCV"; ObjectID = "QDW-tb-CBw"; */
+"QDW-tb-CBw.title" = "OpenCV";
+
+/* Class = "UIBarButtonItem"; title = "卡片"; ObjectID = "TPC-Po-Nn3"; */
+"TPC-Po-Nn3.title" = "卡片";
+
+/* Class = "UILabel"; text = "姓名："; ObjectID = "VZQ-bn-TVy"; */
+"VZQ-bn-TVy.text" = "姓名：";
+
+/* Class = "UINavigationItem"; title = "方案一"; ObjectID = "a7k-2O-oYE"; */
+"a7k-2O-oYE.title" = "方案一";
+
+/* Class = "UILabel"; text = "身份证号："; ObjectID = "b3W-yS-GmC"; */
+"b3W-yS-GmC.text" = "身份证号：";
+
+/* Class = "UIBarButtonItem"; title = "选图像"; ObjectID = "cKO-PV-gof"; */
+"cKO-PV-gof.title" = "选图像";
+
+/* Class = "UINavigationItem"; title = "OpenCV"; ObjectID = "hLA-qk-IIz"; */
+"hLA-qk-IIz.title" = "OpenCV";
