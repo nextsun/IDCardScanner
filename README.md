@@ -8,11 +8,11 @@
 
 
 
-IDCardScanner is an demo app to recognize China ID Card information at iOS platform.
+IDCardScanner is an demo app to recognize China Identity Card informations on iOS platform.
 
 ## Run
 
-This project is build With [CocoaPods](http://cocoapods.org), so run this command before opening with Xcode.
+This project is build With [CocoaPods](http://cocoapods.org), so please run the following command to install  before opening with Xcode.
 
     pod install
 
@@ -70,7 +70,7 @@ xxxxxx
 
 ## Author
 
-- [Lei Sun](http://github.com/nextsun) ([Sina Weibo](https://weibo.com/nextsun),[Twitter](https://twitter.com/nextsuncn))
+- [Lei Sun](http://github.com/nextsun) ([Sina Weibo](https://weibo.com/nextsun),[Twitter](https://twitter.com/nextsuncn),or [Facebook](https://www.facebook.com/sunnylei))
 
 ## License
 
