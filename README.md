@@ -3,6 +3,13 @@
 
 #IDCardScanner
 
+[![Build Status](https://travis-ci.org/nextsun/IDCardScanner.svg?branch=master)](https://travis-ci.org/nextsun/IDCardScanner)
+
+[![Coverage Status](https://codecov.io/github/nextsun/IDCardScanner?branch=master)](https://codecov.io/github/nextsun/IDCardScanner?branch=master)
+
+
+---
+
 ##Requirements
 
 
@@ -14,7 +21,7 @@
 
 ### One
 
-* Click  [here](https://dn-nextsun.qbox.me/itms-services.html?action=download-manifest&url=https://raw.githubusercontent.com/nextsun/IDCardScanner/master/Docs/Publish/app.ipa)  on your iPhone or iPad to install it directly
+* Click  [here](https://dn-nextsun.qbox.me/itms-services.html?action=download-manifest&url=https://raw.githubusercontent.com/nextsun/IDCardScanner/master/Docs/Publish/app.plist)  on your iPhone or iPad to install it directly
 
 ### Two 
 
