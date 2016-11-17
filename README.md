@@ -46,11 +46,11 @@ This project is build With [CocoaPods](http://cocoapods.org), so please run the 
 ### Pick Image
 
 
-There are two method to select the area to recognize
+There are two method to select the area to recognize,
 
-One is picked  by the user  show in Case One
+One is picked  by the user  show in Case One,
 
-We use this controller to pick
+We use this controller to pick:
 
 ```
 
@@ -67,7 +67,8 @@ We use this controller to pick
     [self presentViewController:navigationController animated:YES completion:nil];
 
 ```
-and before rending this controller ,we use those code to inject the area to  recognized
+
+and before rending this controller ,we use those code to inject the area to  recognized:
 
 ```
     
@@ -102,7 +103,7 @@ and before rending this controller ,we use those code to inject the area to  rec
 
 The other is picked automatic by OpenCV, but it also can be adjust by user.
 
-We open the picker controller like this
+We open the picker controller like this:
 
 ```
 
@@ -122,7 +123,7 @@ if you want to know more details, please download this project.
 
 
 
-### recognize Image
+### Recognize Image
 
 We use  tesseract to recoginze the image , here is the core code:
 
