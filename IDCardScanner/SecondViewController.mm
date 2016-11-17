@@ -425,41 +425,4 @@ const char* convertWritePath(NSString* fileName){
     
     return cPath;
 }
-
-//int main()
-//{
-//    cv::Mat src = cv::imread("cc.png");
-//    if (src.empty())
-//    {
-//        std::cout << "!!! Failed to open image" << std::endl;
-//        return -1;
-//    }
-//    
-//    std::vector<std::vector<cv::Point> > squares;
-//    findSquares(src, squares);
-//    
-//    // Draw all detected squares
-//    cv::Mat src_squares = src.clone();
-//    for (size_t i = 0; i < squares.size(); i++)
-//    {
-//        const cv::Point* p = &squares[i][0];
-//        int n = (int)squares[i].size();
-//        cv::polylines(src_squares, &p, &n, 1, true, cv::Scalar(0, 255, 0), 2, CV_AA);
-//    }
-//    cv::imwrite("out_squares.jpg", src_squares);
-//    cv::imshow("Squares", src_squares);
-//    
-//    std::vector<cv::Point> largest_square;
-//    findLargestSquare(squares, largest_square);
-//    
-//    // Draw circles at the corners
-//    for (size_t i = 0; i < largest_square.size(); i++ )
-//        cv::circle(src, largest_square[i], 4, cv::Scalar(0, 0, 255), cv::FILLED);
-//    cv::imwrite("out_corners.jpg", src);
-//    
-//    cv::imshow("Corners", src);
-//    cv::waitKey(0);
-//    
-//    return 0;
-//}
 @end
