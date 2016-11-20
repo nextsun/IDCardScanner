@@ -12,11 +12,12 @@ IDCardScanner is a demo app to recognize China Identity Card informations on iOS
 
 ## Screenshots
 
-![Example](./Docs/ReadmeAssets/a1.PNG "Example View")
-![Example](./Docs/ReadmeAssets/a2.PNG "Example View")
-![Example](./Docs/ReadmeAssets/b2.PNG "Example View")
-![Example](./Docs/ReadmeAssets/c.PNG "Example View")
-![Example](./Docs/ReadmeAssets/d.PNG "Example View")
+![image](./Docs/ReadmeAssets/a1.PNG)
+![image](./Docs/ReadmeAssets/a2.PNG)
+![image](./Docs/ReadmeAssets/b2.PNG)
+![image](./Docs/ReadmeAssets/c.PNG)
+![image](./Docs/ReadmeAssets/d.PNG)
+
 
 
 ##Install on iPhone
@@ -177,7 +178,7 @@ We use  tesseract to recoginze the image , here is the core code:
 
 ## Author
 
-- [Lei Sun](http://github.com/nextsun) ( [Sina Weibo](https://weibo.com/nextsun),[Twitter](https://twitter.com/nextsuncn),or [Facebook](https://www.facebook.com/sunleibest) )
+- [Lei Sun](http://github.com/nextsun) ([Sina Weibo](https://weibo.com/nextsun),[Twitter](https://twitter.com/nextsuncn),or [Facebook](https://www.facebook.com/sunleibest) )
 
 ## License
 
